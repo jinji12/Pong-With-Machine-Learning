@@ -1,1 +1,1 @@
-This projects goal is to create a pong game in python using pygame and train a neural network to play it.
+2 player pong game with pygame
